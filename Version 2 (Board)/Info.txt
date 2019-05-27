@@ -1,0 +1,4 @@
+This PCB has 3 ADC and 2 DAC that they run at 2 MHz. It has the possibility to read the Analog Input from IDC connector or RF connector
+to have better signal integrity.
+
+This PCB has been tested with FPGA Altera board.
